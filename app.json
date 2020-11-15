@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-image-header-scroll-view-sample",
-    "slug": "react-native-image-header-scroll-view-sample",
+    "name": "react-native-expo-instagram-clone",
+    "slug": "react-native-expo-instagram-clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
